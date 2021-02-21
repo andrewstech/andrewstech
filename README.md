@@ -10,4 +10,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [Youtube for alexa DIY](https://github.com/unofficial-skills/DIY-youtube-for-alexa)
 - 📫 How to reach me: hello@contact.andrewstech.me
 
+📕 **Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
