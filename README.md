@@ -16,5 +16,8 @@ Here are some ideas to get you started:
 - [HomeAssistant Advanced Install](https://andrewstech.me/homeassistant-advanced-install/)
 - [Ohh The Zigbee](https://andrewstech.me/ohh-the-zigbee/)
 - [merry christmas](https://andrewstech.me/merry-christmas/)
+- [It's Christmas Time](https://andrewstech.me/its-christmas-time/)
+- [Project Ideas](https://andrewstech.me/project-ideas/)
+- [Beat Covid With Computers](https://andrewstech.me/folding-covid/)
 <!-- BLOG-POST-LIST:END -->
 
