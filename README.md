@@ -10,6 +10,10 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [Youtube for alexa DIY](https://github.com/unofficial-skills/DIY-youtube-for-alexa)
 - 📫 How to reach me: hello@contact.andrewstech.me
 
+# What Ive been up to
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewstech&show_icons=true)
+
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [New Video: Block adverts on your network](https://andrewstech.me/new-video-block-adverts-on-your-network/)
