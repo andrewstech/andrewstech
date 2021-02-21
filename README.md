@@ -12,5 +12,9 @@ Here are some ideas to get you started:
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [New Video: Block adverts on your network](https://andrewstech.me/new-video-block-adverts-on-your-network/)
+- [HomeAssistant Advanced Install](https://andrewstech.me/homeassistant-advanced-install/)
+- [Ohh The Zigbee](https://andrewstech.me/ohh-the-zigbee/)
+- [merry christmas](https://andrewstech.me/merry-christmas/)
 <!-- BLOG-POST-LIST:END -->
 
