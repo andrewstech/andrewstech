@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on [Youtube for alexa DIY](https://github.com/unofficial-skills/DIY-youtube-for-alexa)
-- 📫 How to reach me: hello@contact.andrewstech.me
+- 📫 How to reach me: hello@andrewstech.me
 
 # What Ive been up to
 
