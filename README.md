@@ -16,12 +16,8 @@ Here are some ideas to get you started:
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [New Video: Block adverts on your network](https://andrewstech.me/new-video-block-adverts-on-your-network/)
-- [The YouTube skill](https://andrewstech.me/the-youtube-skill/)
 - [Hello](https://youtube.diy.andrewstech.me/blog/Hello)
 - [New progress](https://youtube.diy.andrewstech.me/blog/progress)
 - [VF2](https://youtube.diy.andrewstech.me/blog/vf2)
-- [HomeAssistant Advanced Install](https://andrewstech.me/homeassistant-advanced-install/)
-- [merry christmas](https://andrewstech.me/merry-christmas/)
 <!-- BLOG-POST-LIST:END -->
 
