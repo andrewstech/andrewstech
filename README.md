@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [New Video: Block adverts on your network](https://andrewstech.me/new-video-block-adverts-on-your-network/)
+- [The YouTube skill](https://andrewstech.me/the-youtube-skill/)
 - [HomeAssistant Advanced Install](https://andrewstech.me/homeassistant-advanced-install/)
-- [Ohh The Zigbee](https://andrewstech.me/ohh-the-zigbee/)
 - [merry christmas](https://andrewstech.me/merry-christmas/)
-- [It's Christmas Time](https://andrewstech.me/its-christmas-time/)
-- [Project Ideas](https://andrewstech.me/project-ideas/)
 - [Beat Covid With Computers](https://andrewstech.me/folding-covid/)
+- [Ohh The Zigbee](https://andrewstech.me/ohh-the-zigbee/)
+- [It's Christmas Time](https://andrewstech.me/its-christmas-time/)
 <!-- BLOG-POST-LIST:END -->
 
