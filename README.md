@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Goodbye Voiceflow and hello Python!](https://andrewstech.me/goodbye-voiceflow-and-hello-pytthon/)
+- [The YouTube Skill Is Back](https://andrewstech.me/the-youtube-skill-is-back/)
 - [Hello](https://youtube-alexa.voiceflow.andrewstech.me/blog/Hello)
 - [Live](https://youtube-alexa.voiceflow.andrewstech.me/blog/Live)
 - [New progress](https://youtube-alexa.voiceflow.andrewstech.me/blog/progress)
 - [VF2](https://youtube-alexa.voiceflow.andrewstech.me/blog/vf2)
 - [Ohh The Zigbee](https://andrewstech.me/ohh-the-zigbee/)
-- [The YouTube Skill Is Back](https://andrewstech.me/the-youtube-skill-is-back/)
-- [New Video: Block adverts on your network](https://andrewstech.me/new-video-block-adverts-on-your-network/)
 <!-- BLOG-POST-LIST:END -->
 
