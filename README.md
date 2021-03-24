@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Goodbye Voiceflow and hello Python!](https://andrewstech.me/goodbye-voiceflow-and-hello-pytthon/)
+- [Goodbye Voiceflow and hello Python!](https://andrewstech.me/goodbye-voiceflow-and-hello-pytthon-2/)
 - [The YouTube Skill Is Back](https://andrewstech.me/the-youtube-skill-is-back/)
 - [Hello](https://youtube-alexa.voiceflow.andrewstech.me/blog/Hello)
 - [Live](https://youtube-alexa.voiceflow.andrewstech.me/blog/Live)
