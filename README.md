@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on [ALPHA-VIDEO-2021](https://github.com/unofficial-skills/ALPHA-VIDEO-2021)
+- 🔭 I’m currently working on [ALPHA-VIDEO](https://github.com/unofficial-skills/alpha-video)
 - 📫 How to reach me: hello@andrewstech.me
 
 # What Ive been up to
