@@ -16,12 +16,6 @@ Here are some ideas to get you started:
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Goodbye Voiceflow and hello Python!](https://andrewstech.me/goodbye-voiceflow-and-hello-pytthon-2/)
-- [The YouTube Skill Is Back](https://andrewstech.me/the-youtube-skill-is-back/)
-- [Ohh The Zigbee](https://andrewstech.me/ohh-the-zigbee/)
-- [New Video: Block adverts on your network](https://andrewstech.me/new-video-block-adverts-on-your-network/)
-- [The YouTube skill](https://andrewstech.me/the-youtube-skill/)
-- [HomeAssistant Advanced Install](https://andrewstech.me/homeassistant-advanced-install/)
-- [merry christmas](https://andrewstech.me/merry-christmas/)
+- [New Site](https://andrewstech.me/2021/04/13/new-site.html)
 <!-- BLOG-POST-LIST:END -->
 
