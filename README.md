@@ -16,7 +16,12 @@ Here are some ideas to get you started:
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Alpha-Video released](https://andrewstech.me/2021/04/16/released.html)
-- [New Site](https://andrewstech.me/2021/04/13/new-site.html)
+- [How to stream YouTube on Alexa in 2021](https://www.youtube.com/watch?v=vyiChtUhXsI)
+- [THE YOUTUBE SKILL FINALLY WORKS](https://www.youtube.com/watch?v=7-Tt9VRl2Gk)
+- [How to Block all adverts on your Network](https://www.youtube.com/watch?v=axF09D7nWls)
+- [ohh the Zigbee Alexa Skill](https://www.youtube.com/watch?v=LqOa9ga0DZQ)
+- [Raspberry pi powered Christmas lights demo](https://www.youtube.com/watch?v=GSHwCZz-yYs)
+- [Update. New skills And Discord](https://www.youtube.com/watch?v=fjHMf6GnZhk)
+- [Alpha video - New error message](https://www.youtube.com/watch?v=2zojSXnlu4s)
 <!-- BLOG-POST-LIST:END -->
 
