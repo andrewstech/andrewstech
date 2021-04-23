@@ -12,7 +12,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
-      - uses: andrewstech/blog-post-workflow@master
         with:
           max_post_count: "7"
           feed_list: "https://andrewstech.me/feed.xml"
