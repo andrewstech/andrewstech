@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 - [Alpha video - New error message](https://www.youtube.com/watch?v=2zojSXnlu4s)
 <!-- BLOG-POST-LIST:END -->
 
+<!-- YOUTUBE-POST-LIST:START -->
+<!-- YOUTUBE-POST-LIST:END -->
