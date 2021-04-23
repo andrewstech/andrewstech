@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - [Alpha video - New error message](https://www.youtube.com/watch?v=2zojSXnlu4s)
 <!-- BLOG-POST-LIST:END -->
 
+**Latest YouTube Videos**
 <!-- YOUTUBE-POST-LIST:START -->
 - [How to stream YouTube on Alexa in 2021](https://www.youtube.com/watch?v=vyiChtUhXsI)
 - [THE YOUTUBE SKILL FINALLY WORKS](https://www.youtube.com/watch?v=7-Tt9VRl2Gk)
