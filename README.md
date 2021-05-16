@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Skill Updates](https://andrewstech.me/2021/05/16/skill.html)
 - [Alpha-Video released](https://andrewstech.me/2021/04/16/released.html)
 - [New Site](https://andrewstech.me/2021/04/13/new-site.html)
 <!-- BLOG-POST-LIST:END -->
