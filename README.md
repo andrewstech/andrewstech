@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 :tv: **Latest YouTube Videos**
 <!-- YOUTUBE-POST-LIST:START -->
+- [Demo of the new upcoming playlist function for the YouTube skill.](https://www.youtube.com/watch?v=vk8B4t6Wdrk)
 - [Windows 11 LEAKED !!!](https://www.youtube.com/watch?v=3Vai-0mkjSk)
 - [How to stream YouTube on Alexa in 2021](https://www.youtube.com/watch?v=vyiChtUhXsI)
 - [THE YOUTUBE SKILL FINALLY WORKS](https://www.youtube.com/watch?v=7-Tt9VRl2Gk)
 - [How to Block all adverts on your Network](https://www.youtube.com/watch?v=axF09D7nWls)
 - [ohh the Zigbee Alexa Skill](https://www.youtube.com/watch?v=LqOa9ga0DZQ)
 - [Raspberry pi powered Christmas lights demo](https://www.youtube.com/watch?v=GSHwCZz-yYs)
-- [Update. New skills And Discord](https://www.youtube.com/watch?v=fjHMf6GnZhk)
 <!-- YOUTUBE-POST-LIST:END -->
