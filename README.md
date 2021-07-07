@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Skill Updates](https://andrewstech.me/2021/05/16/skill.html)
-- [Alpha-Video released](https://andrewstech.me/2021/04/16/released.html)
-- [New Site](https://andrewstech.me/2021/04/13/new-site.html)
+- [Blog](https://andrewstech.me/blog/index.html)
+- [Skill Update #11 | AndrewsTech](https://andrewstech.me/blog/1/index.html)
+- [Posts by AndrewsTech](https://andrewstech.me/blog/author/andrew/index.html)
+- [Posts in General](https://andrewstech.me/blog/category/general/index.html)
 <!-- BLOG-POST-LIST:END -->
 
 :tv: **Latest YouTube Videos**
