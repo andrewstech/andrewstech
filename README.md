@@ -16,11 +16,7 @@ Here are some ideas to get you started:
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Blog](https://andrewstech.me/blog/index.html)
-- [Skill Update #11 | AndrewsTech](https://andrewstech.me/blog/1/index.html)
-- [Ohh the zigbee - Open Source](https://andrewstech.me/blog/ohh-the-zigbee/index.html)
-- [Posts by AndrewsTech](https://andrewstech.me/blog/author/andrew/index.html)
-- [Posts in General](https://andrewstech.me/blog/category/general/index.html)
+- [Oh the ZigBee](https://andrewstech.me/oh-the-zigbee/)
 <!-- BLOG-POST-LIST:END -->
 
 :tv: **Latest YouTube Videos**
