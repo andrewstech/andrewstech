@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 
 # What Ive been up to
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewstech&show_icons=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=andrewstech)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
