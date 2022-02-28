@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on [ALPHA-VIDEO](https://github.com/unofficial-skills/alpha-video)
 - 📫 How to reach me: hello@andrewstech.me
 -  :postal_horn: helping out [blueedgetechno/windows11](https://github.com/blueedgetechno/windows11)
 
@@ -16,10 +15,6 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=andrewstech)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-📕 **Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-- [Oh the ZigBee](https://andrewstech.me/oh-the-zigbee/)
-<!-- BLOG-POST-LIST:END -->
 
 :tv: **Latest YouTube Videos**
 <!-- YOUTUBE-POST-LIST:START -->
