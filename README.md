@@ -7,6 +7,13 @@ Here are some ideas to get you started:
 
 -->
 
+Im Andrew.
+
+#Skills
+
+[![My Skills](https://skillicons.dev/icons?i=py,html,cloudflare,discord,bots,docker,git,linux,react,md,tauri)](https://skillicons.dev)
+
+
 - 📫 How to reach me: hello@andrewstech.me
 -  :postal_horn: helping out [blueedgetechno/windows11](https://github.com/blueedgetechno/windows11)
 
