@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 Im Andrew.
 
-#Skills
+# Skills
 
 [![My Skills](https://skillicons.dev/icons?i=py,html,cloudflare,discord,bots,docker,git,linux,react,md,tauri)](https://skillicons.dev)
 
