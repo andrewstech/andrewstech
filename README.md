@@ -13,9 +13,13 @@ Im Andrew.
 
 [![My Skills](https://skillicons.dev/icons?i=py,html,cloudflare,discord,bots,docker,git,linux,react,md,tauri)](https://skillicons.dev)
 
+# Contact
 
 - 📫 How to reach me: hello@andrewstech.me
--  :postal_horn: helping out [blueedgetechno/windows11](https://github.com/blueedgetechno/windows11)
+- Discord
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/598245488977903688)](https://discord.com/users/598245488977903688)
+
 
 # What Ive been up to
 
