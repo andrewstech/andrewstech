@@ -9,6 +9,10 @@ Here are some ideas to get you started:
 
 Im Andrew.
 
+I'm the lead bug fixer and store manager of the Win11React project 
+
+I'm also the second developer of the is a dev registration program.
+
 # Skills
 
 [![My Skills](https://skillicons.dev/icons?i=py,html,cloudflare,discord,bots,docker,git,linux,react,md,tauri)](https://skillicons.dev)
