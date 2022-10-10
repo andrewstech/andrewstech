@@ -15,7 +15,7 @@ I'm also the second developer of the is a dev registration program.
 
 # Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,html,cloudflare,discord,bots,docker,git,linux,react,md,tauri)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,cloudflare,discord,bots,docker,git,linux,react,md,tauri,js)](https://skillicons.dev)
 
 # Contact
 
