@@ -15,7 +15,7 @@ I'm also the second developer of the is a dev registration program.
 
 # Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,html,cloudflare,discord,bots,docker,git,linux,react,md,tauri,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,cloudflare,discord,discordjs,bots,docker,git,linux,react,md,tauri,js,npm)](https://skillicons.dev)
 
 # Contact
 
@@ -27,8 +27,7 @@ I'm also the second developer of the is a dev registration program.
 
 # What Ive been up to
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=andrewstech)](https://github.com/ryo-ma/github-profile-trophy)
-
+Owner and Maintainer of Open Domains
 
 
 :tv: **Latest YouTube Videos**
