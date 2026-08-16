@@ -40,3 +40,5 @@ Owner and Maintainer of Open Domains
 - [ohh the Zigbee Alexa Skill](https://www.youtube.com/watch?v=LqOa9ga0DZQ)
 - [Raspberry pi powered Christmas lights demo](https://www.youtube.com/watch?v=GSHwCZz-yYs)
 <!-- YOUTUBE-POST-LIST:END -->
+
+<script defer src="https://analytics.open-domains.com/script.js" data-website-id="9bc93294-37c1-47a0-b7e7-7349348b0d01"></script>
